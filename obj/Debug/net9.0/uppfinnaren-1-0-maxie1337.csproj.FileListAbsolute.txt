@@ -18,7 +18,6 @@ C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\uppfinn
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\scopedcss\bundle\uppfinnaren-1-0-maxie1337.styles.css
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\scopedcss\projectbundle\uppfinnaren-1-0-maxie1337.bundle.scp.css
-C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\compressed\oef8yw7625-b9sayid5wm.gz
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\compressed\ba32zszeqf-61n19gt1b8.gz
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\compressed\redxh2zbi9-xtxxf3hu2r.gz
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\compressed\7016en8q9t-bqjiyaj88i.gz
@@ -80,8 +79,6 @@ C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\compres
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\compressed\10058o8xqk-muycvpuwrr.gz
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\compressed\ytvvy73yuj-87fc7y1x7t.gz
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\compressed\ox8n5h37fb-mlv21k5csn.gz
-C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\compressed\ru8appvhnq-5vh236pltp.gz
-C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\compressed\ay730fp9fb-5vh236pltp.gz
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -96,3 +93,6 @@ C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\refint\
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\uppfinnaren-1-0-maxie1337.pdb
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\uppfinnaren-1-0-maxie1337.genruntimeconfig.cache
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\ref\uppfinnaren-1-0-maxie1337.dll
+C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\compressed\oef8yw7625-rfuxp4xpqt.gz
+C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\compressed\ru8appvhnq-wepcj3tal0.gz
+C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\obj\Debug\net9.0\compressed\ay730fp9fb-wepcj3tal0.gz

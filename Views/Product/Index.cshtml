@@ -2,15 +2,21 @@
     ViewData["Title"] = "Produkter";
 }
 
-<h1>Uppfinnarens Produkter</h1>
+<h1 class="text-center">Mina produkter</h1>
+<br>
 
-<div>
-    @foreach (var product in Model)
-    {
-        <div class="creation">
-            <h2>@product.Name</h2>
-            <p>@product.Description</p>
-            <img src="@product.ImgUrl" alt="@product.Name" style="max-width:200px;" />
-        </div>
-    }
+<div class="container">
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4 d-flex justify-content-center">
+                <div class="creation text-center">
+                    <h2>@product.Name</h2>
+                    <p>@product.Description</p>
+                    <img src="@product.ImgUrl" alt="@product.Name" class="img-fluid mb-3" style="width:200px; height:250px;" />
+                    <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Lägg till i kundvagn</a>
+                </div>
+            </div>
+        }
+    </div>
 </div>

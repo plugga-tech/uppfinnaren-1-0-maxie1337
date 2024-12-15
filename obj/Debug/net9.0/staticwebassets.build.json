@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TkUgr5Gyp/bnoKwkUUNHd/6Cv52UoZteFpqhb7RV0d4=",
+  "Hash": "/17I71Itl87ryc9/BLxxguxG0jfF+ixdCsj19XCoCTQ=",
   "Source": "uppfinnaren-1-0-maxie1337",
   "BasePath": "_content/uppfinnaren-1-0-maxie1337",
   "Mode": "Default",
@@ -395,12 +395,12 @@
       "OriginalItemSpec": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ay730fp9fb-5vh236pltp.gz",
+      "Identity": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ay730fp9fb-wepcj3tal0.gz",
       "SourceId": "uppfinnaren-1-0-maxie1337",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/uppfinnaren-1-0-maxie1337",
-      "RelativePath": "uppfinnaren-1-0-maxie1337#[.{fingerprint=5vh236pltp}]!.bundle.scp.css.gz",
+      "RelativePath": "uppfinnaren-1-0-maxie1337#[.{fingerprint=wepcj3tal0}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -409,8 +409,8 @@
       "RelatedAsset": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\uppfinnaren-1-0-maxie1337.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nv5nw9yv6q",
-      "Integrity": "g0Hss1D3tPFxrdNPcLoGHlmX7qpTI9PSGehweGxx1l8=",
+      "Fingerprint": "1uqr0jrtbw",
+      "Integrity": "ZyPTXoSuwFa5nUxveFlrm0gdSD20ps96gorSbPrLjA0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\uppfinnaren-1-0-maxie1337.bundle.scp.css"
@@ -878,12 +878,12 @@
       "OriginalItemSpec": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\oef8yw7625-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\oef8yw7625-rfuxp4xpqt.gz",
       "SourceId": "uppfinnaren-1-0-maxie1337",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/uppfinnaren-1-0-maxie1337",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=rfuxp4xpqt}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -892,8 +892,8 @@
       "RelatedAsset": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0suozzrugb",
-      "Integrity": "0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=",
+      "Fingerprint": "8gs3al9i2j",
+      "Integrity": "OH9HqACpZoG2X8b292w3vWbICCVvN6aEzPn4DyqC9fo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\wwwroot\\css\\site.css"
@@ -1130,12 +1130,12 @@
       "OriginalItemSpec": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ru8appvhnq-5vh236pltp.gz",
+      "Identity": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ru8appvhnq-wepcj3tal0.gz",
       "SourceId": "uppfinnaren-1-0-maxie1337",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/uppfinnaren-1-0-maxie1337",
-      "RelativePath": "uppfinnaren-1-0-maxie1337#[.{fingerprint=5vh236pltp}]?.styles.css.gz",
+      "RelativePath": "uppfinnaren-1-0-maxie1337#[.{fingerprint=wepcj3tal0}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -1144,8 +1144,8 @@
       "RelatedAsset": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\scopedcss\\bundle\\uppfinnaren-1-0-maxie1337.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nv5nw9yv6q",
-      "Integrity": "g0Hss1D3tPFxrdNPcLoGHlmX7qpTI9PSGehweGxx1l8=",
+      "Fingerprint": "1uqr0jrtbw",
+      "Integrity": "ZyPTXoSuwFa5nUxveFlrm0gdSD20ps96gorSbPrLjA0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\scopedcss\\bundle\\uppfinnaren-1-0-maxie1337.styles.css"
@@ -1375,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "5vh236pltp",
-      "Integrity": "D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg=",
+      "Fingerprint": "wepcj3tal0",
+      "Integrity": "qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\scopedcss\\bundle\\uppfinnaren-1-0-maxie1337.styles.css"
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "5vh236pltp",
-      "Integrity": "D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg=",
+      "Fingerprint": "wepcj3tal0",
+      "Integrity": "qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\uppfinnaren-1-0-maxie1337.bundle.scp.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "rfuxp4xpqt",
+      "Integrity": "V7EmOyl01ootWMEUZeZoIWB3Plt3TRqC2M0q4Agu9Gw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2833,13 +2833,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\oef8yw7625-b9sayid5wm.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\oef8yw7625-rfuxp4xpqt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.002358490566"
         }
       ],
       "ResponseHeaders": [
@@ -2849,19 +2849,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "423"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"OH9HqACpZoG2X8b292w3vWbICCVvN6aEzPn4DyqC9fo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:26:04 GMT"
+          "Value": "Sun, 15 Dec 2024 14:36:54 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2877,26 +2877,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"V7EmOyl01ootWMEUZeZoIWB3Plt3TRqC2M0q4Agu9Gw=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-V7EmOyl01ootWMEUZeZoIWB3Plt3TRqC2M0q4Agu9Gw="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2906,7 +2898,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "897"
         },
         {
           "Name": "Content-Type",
@@ -2914,11 +2906,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"V7EmOyl01ootWMEUZeZoIWB3Plt3TRqC2M0q4Agu9Gw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:26:04 GMT"
+          "Value": "Sun, 15 Dec 2024 14:36:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7EmOyl01ootWMEUZeZoIWB3Plt3TRqC2M0q4Agu9Gw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\oef8yw7625-rfuxp4xpqt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OH9HqACpZoG2X8b292w3vWbICCVvN6aEzPn4DyqC9fo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 14:36:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OH9HqACpZoG2X8b292w3vWbICCVvN6aEzPn4DyqC9fo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.rfuxp4xpqt.css",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\oef8yw7625-rfuxp4xpqt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002358490566"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OH9HqACpZoG2X8b292w3vWbICCVvN6aEzPn4DyqC9fo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 14:36:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"V7EmOyl01ootWMEUZeZoIWB3Plt3TRqC2M0q4Agu9Gw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rfuxp4xpqt"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V7EmOyl01ootWMEUZeZoIWB3Plt3TRqC2M0q4Agu9Gw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.rfuxp4xpqt.css",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V7EmOyl01ootWMEUZeZoIWB3Plt3TRqC2M0q4Agu9Gw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 14:36:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2928,7 +3065,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "rfuxp4xpqt"
         },
         {
           "Name": "label",
@@ -2936,13 +3073,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-V7EmOyl01ootWMEUZeZoIWB3Plt3TRqC2M0q4Agu9Gw="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\oef8yw7625-b9sayid5wm.gz",
+      "Route": "css/site.rfuxp4xpqt.css.gz",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\oef8yw7625-rfuxp4xpqt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2951,7 +3088,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "423"
         },
         {
           "Name": "Content-Type",
@@ -2959,11 +3096,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"OH9HqACpZoG2X8b292w3vWbICCVvN6aEzPn4DyqC9fo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:26:04 GMT"
+          "Value": "Sun, 15 Dec 2024 14:36:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2981,7 +3118,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "rfuxp4xpqt"
         },
         {
           "Name": "label",
@@ -2989,144 +3126,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\oef8yw7625-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003134796238"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:26:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:26:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\oef8yw7625-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:26:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-OH9HqACpZoG2X8b292w3vWbICCVvN6aEzPn4DyqC9fo="
         }
       ]
     },
@@ -21801,13 +21801,13 @@
       ]
     },
     {
-      "Route": "uppfinnaren-1-0-maxie1337.5vh236pltp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ay730fp9fb-5vh236pltp.gz",
+      "Route": "uppfinnaren-1-0-maxie1337.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ay730fp9fb-wepcj3tal0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001814882033"
+          "Quality": "0.001992031873"
         }
       ],
       "ResponseHeaders": [
@@ -21817,19 +21817,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "550"
+          "Value": "501"
         },
         {
           "Name": "ETag",
-          "Value": "\"g0Hss1D3tPFxrdNPcLoGHlmX7qpTI9PSGehweGxx1l8=\""
+          "Value": "\"ZyPTXoSuwFa5nUxveFlrm0gdSD20ps96gorSbPrLjA0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:28:25 GMT"
+          "Value": "Sun, 15 Dec 2024 14:51:03 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -21845,26 +21845,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg=\""
+          "Value": "W/\"qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "5vh236pltp"
-        },
-        {
-          "Name": "label",
-          "Value": "uppfinnaren-1-0-maxie1337.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg="
+          "Value": "sha256-qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g="
         }
       ]
     },
     {
-      "Route": "uppfinnaren-1-0-maxie1337.5vh236pltp.bundle.scp.css",
+      "Route": "uppfinnaren-1-0-maxie1337.bundle.scp.css",
       "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\uppfinnaren-1-0-maxie1337.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21874,7 +21866,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1143"
+          "Value": "1016"
         },
         {
           "Name": "Content-Type",
@@ -21882,11 +21874,293 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg=\""
+          "Value": "\"qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:28:25 GMT"
+          "Value": "Sun, 15 Dec 2024 14:51:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g="
+        }
+      ]
+    },
+    {
+      "Route": "uppfinnaren-1-0-maxie1337.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ay730fp9fb-wepcj3tal0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZyPTXoSuwFa5nUxveFlrm0gdSD20ps96gorSbPrLjA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 14:51:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZyPTXoSuwFa5nUxveFlrm0gdSD20ps96gorSbPrLjA0="
+        }
+      ]
+    },
+    {
+      "Route": "uppfinnaren-1-0-maxie1337.styles.css",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ru8appvhnq-wepcj3tal0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001992031873"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "501"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZyPTXoSuwFa5nUxveFlrm0gdSD20ps96gorSbPrLjA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 14:51:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g="
+        }
+      ]
+    },
+    {
+      "Route": "uppfinnaren-1-0-maxie1337.styles.css",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\scopedcss\\bundle\\uppfinnaren-1-0-maxie1337.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 14:51:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g="
+        }
+      ]
+    },
+    {
+      "Route": "uppfinnaren-1-0-maxie1337.styles.css.gz",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ru8appvhnq-wepcj3tal0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZyPTXoSuwFa5nUxveFlrm0gdSD20ps96gorSbPrLjA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 14:51:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZyPTXoSuwFa5nUxveFlrm0gdSD20ps96gorSbPrLjA0="
+        }
+      ]
+    },
+    {
+      "Route": "uppfinnaren-1-0-maxie1337.wepcj3tal0.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ay730fp9fb-wepcj3tal0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001992031873"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "501"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZyPTXoSuwFa5nUxveFlrm0gdSD20ps96gorSbPrLjA0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 14:51:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wepcj3tal0"
+        },
+        {
+          "Name": "label",
+          "Value": "uppfinnaren-1-0-maxie1337.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g="
+        }
+      ]
+    },
+    {
+      "Route": "uppfinnaren-1-0-maxie1337.wepcj3tal0.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\uppfinnaren-1-0-maxie1337.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1016"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 14:51:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21896,7 +22170,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5vh236pltp"
+          "Value": "wepcj3tal0"
         },
         {
           "Name": "label",
@@ -21904,13 +22178,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg="
+          "Value": "sha256-qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g="
         }
       ]
     },
     {
-      "Route": "uppfinnaren-1-0-maxie1337.5vh236pltp.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ay730fp9fb-5vh236pltp.gz",
+      "Route": "uppfinnaren-1-0-maxie1337.wepcj3tal0.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ay730fp9fb-wepcj3tal0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21919,7 +22193,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "550"
+          "Value": "501"
         },
         {
           "Name": "Content-Type",
@@ -21927,11 +22201,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g0Hss1D3tPFxrdNPcLoGHlmX7qpTI9PSGehweGxx1l8=\""
+          "Value": "\"ZyPTXoSuwFa5nUxveFlrm0gdSD20ps96gorSbPrLjA0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:28:25 GMT"
+          "Value": "Sun, 15 Dec 2024 14:51:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21949,7 +22223,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5vh236pltp"
+          "Value": "wepcj3tal0"
         },
         {
           "Name": "label",
@@ -21957,18 +22231,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-g0Hss1D3tPFxrdNPcLoGHlmX7qpTI9PSGehweGxx1l8="
+          "Value": "sha256-ZyPTXoSuwFa5nUxveFlrm0gdSD20ps96gorSbPrLjA0="
         }
       ]
     },
     {
-      "Route": "uppfinnaren-1-0-maxie1337.5vh236pltp.styles.css",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ru8appvhnq-5vh236pltp.gz",
+      "Route": "uppfinnaren-1-0-maxie1337.wepcj3tal0.styles.css",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ru8appvhnq-wepcj3tal0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001814882033"
+          "Quality": "0.001992031873"
         }
       ],
       "ResponseHeaders": [
@@ -21978,15 +22252,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "550"
+          "Value": "501"
         },
         {
           "Name": "ETag",
-          "Value": "\"g0Hss1D3tPFxrdNPcLoGHlmX7qpTI9PSGehweGxx1l8=\""
+          "Value": "\"ZyPTXoSuwFa5nUxveFlrm0gdSD20ps96gorSbPrLjA0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:28:25 GMT"
+          "Value": "Sun, 15 Dec 2024 14:51:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22006,13 +22280,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg=\""
+          "Value": "W/\"qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5vh236pltp"
+          "Value": "wepcj3tal0"
         },
         {
           "Name": "label",
@@ -22020,12 +22294,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg="
+          "Value": "sha256-qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g="
         }
       ]
     },
     {
-      "Route": "uppfinnaren-1-0-maxie1337.5vh236pltp.styles.css",
+      "Route": "uppfinnaren-1-0-maxie1337.wepcj3tal0.styles.css",
       "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\scopedcss\\bundle\\uppfinnaren-1-0-maxie1337.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22035,7 +22309,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1143"
+          "Value": "1016"
         },
         {
           "Name": "Content-Type",
@@ -22043,11 +22317,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg=\""
+          "Value": "\"qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:28:25 GMT"
+          "Value": "Sun, 15 Dec 2024 14:51:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22057,7 +22331,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5vh236pltp"
+          "Value": "wepcj3tal0"
         },
         {
           "Name": "label",
@@ -22065,13 +22339,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg="
+          "Value": "sha256-qDooOcjg8t0HKN1JrZfza0xuTzd5MeeV/RFizzqbj1g="
         }
       ]
     },
     {
-      "Route": "uppfinnaren-1-0-maxie1337.5vh236pltp.styles.css.gz",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ru8appvhnq-5vh236pltp.gz",
+      "Route": "uppfinnaren-1-0-maxie1337.wepcj3tal0.styles.css.gz",
+      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ru8appvhnq-wepcj3tal0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22080,7 +22354,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "550"
+          "Value": "501"
         },
         {
           "Name": "Content-Type",
@@ -22088,11 +22362,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g0Hss1D3tPFxrdNPcLoGHlmX7qpTI9PSGehweGxx1l8=\""
+          "Value": "\"ZyPTXoSuwFa5nUxveFlrm0gdSD20ps96gorSbPrLjA0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:28:25 GMT"
+          "Value": "Sun, 15 Dec 2024 14:51:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22110,7 +22384,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5vh236pltp"
+          "Value": "wepcj3tal0"
         },
         {
           "Name": "label",
@@ -22118,281 +22392,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-g0Hss1D3tPFxrdNPcLoGHlmX7qpTI9PSGehweGxx1l8="
-        }
-      ]
-    },
-    {
-      "Route": "uppfinnaren-1-0-maxie1337.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ay730fp9fb-5vh236pltp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001814882033"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "550"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g0Hss1D3tPFxrdNPcLoGHlmX7qpTI9PSGehweGxx1l8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:28:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg="
-        }
-      ]
-    },
-    {
-      "Route": "uppfinnaren-1-0-maxie1337.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\uppfinnaren-1-0-maxie1337.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1143"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:28:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg="
-        }
-      ]
-    },
-    {
-      "Route": "uppfinnaren-1-0-maxie1337.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ay730fp9fb-5vh236pltp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "550"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g0Hss1D3tPFxrdNPcLoGHlmX7qpTI9PSGehweGxx1l8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:28:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-g0Hss1D3tPFxrdNPcLoGHlmX7qpTI9PSGehweGxx1l8="
-        }
-      ]
-    },
-    {
-      "Route": "uppfinnaren-1-0-maxie1337.styles.css",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ru8appvhnq-5vh236pltp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001814882033"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "550"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g0Hss1D3tPFxrdNPcLoGHlmX7qpTI9PSGehweGxx1l8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:28:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg="
-        }
-      ]
-    },
-    {
-      "Route": "uppfinnaren-1-0-maxie1337.styles.css",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\scopedcss\\bundle\\uppfinnaren-1-0-maxie1337.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1143"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:28:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-D66st+VJCaWtf1qLlugCh7egevwG1daPTEh7XPRkEzg="
-        }
-      ]
-    },
-    {
-      "Route": "uppfinnaren-1-0-maxie1337.styles.css.gz",
-      "AssetFile": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\Debug\\net9.0\\compressed\\ru8appvhnq-5vh236pltp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "550"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"g0Hss1D3tPFxrdNPcLoGHlmX7qpTI9PSGehweGxx1l8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 16:28:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-g0Hss1D3tPFxrdNPcLoGHlmX7qpTI9PSGehweGxx1l8="
+          "Value": "sha256-ZyPTXoSuwFa5nUxveFlrm0gdSD20ps96gorSbPrLjA0="
         }
       ]
     }
