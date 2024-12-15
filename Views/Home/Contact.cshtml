@@ -1,7 +1,12 @@
 ﻿@{
-    ViewData["Title"] = "Kontakt";
+    ViewData["Title"] = "Om mig";
 }
-<img src="/Images/CGubbe.jpg" alt="Bild på uppfinnaren">
-<h1>Kontakt</h1>
-<p>E-post: uppfinnaren@träslöjd.se</p>
-<p>Besöksadress: Snickargatan 12, 12345 Hantverksstaden</p>
+
+<div class="container d-flex flex-column justify-content-center align-items-center" style="min-height: 80vh;">
+    <img src="/Images/CGubbe.jpg" alt="Bild på uppfinnaren" class="img-fluid mb-4">
+    <h1 class="text-center">Bengt Snickarsson</h1>
+    <p class="text-center" style="max-width: 700px;">Hej, jag heter Bengt och har en passion för att tillverka och uppfinna saker. Under sidan produkter kan ni se mina senaste skapelser.</p>
+    <a href="@Url.Action("Index", "Product")" class="btn btn-primary mb-3">Se mina produkter</a>
+    <p class="text-center" style="max-width: 700px;">Är du intresserad av att beställa någon produkt? Tveka inte på att kontakta mig, jag kan tillverka allt!</p>
+    <a href="@Url.Action("Info", "About")" class="btn btn-primary">Kontakta mig</a>
+</div>
