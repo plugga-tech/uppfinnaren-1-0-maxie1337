@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Produkter";
+}
+
+<h1>Uppfinnarens Produkter</h1>
+
+<div>
+    @foreach (var product in Model)
+    {
+        <div class="creation">
+            <h2>@product.Name</h2>
+            <p>@product.Description</p>
+            <img src="@product.ImgUrl" alt="@product.Name" style="max-width:200px;" />
+        </div>
+    }
+</div>

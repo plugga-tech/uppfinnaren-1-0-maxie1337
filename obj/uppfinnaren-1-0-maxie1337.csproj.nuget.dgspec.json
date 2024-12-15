@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Max\\Documents\\Github\\uppfinnaren-1-0-maxie1337\\uppfinnaren-1-0-maxie1337.csproj": {}
+    "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\uppfinnaren-1-0-maxie1337.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Max\\Documents\\Github\\uppfinnaren-1-0-maxie1337\\uppfinnaren-1-0-maxie1337.csproj": {
+    "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\uppfinnaren-1-0-maxie1337.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Max\\Documents\\Github\\uppfinnaren-1-0-maxie1337\\uppfinnaren-1-0-maxie1337.csproj",
+        "projectUniqueName": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\uppfinnaren-1-0-maxie1337.csproj",
         "projectName": "uppfinnaren-1-0-maxie1337",
-        "projectPath": "C:\\Users\\Max\\Documents\\Github\\uppfinnaren-1-0-maxie1337\\uppfinnaren-1-0-maxie1337.csproj",
+        "projectPath": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\uppfinnaren-1-0-maxie1337.csproj",
         "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Max\\Documents\\Github\\uppfinnaren-1-0-maxie1337\\obj\\",
+        "outputPath": "C:\\Users\\Max\\Documents\\GitHub\\uppfinnaren-1-0-maxie1337\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
