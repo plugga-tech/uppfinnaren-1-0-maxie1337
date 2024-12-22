@@ -22,6 +22,7 @@ public class ProductRepository : IProductRepository
 
     public IEnumerable<Product> GetProductListByCategory(string category)
     {
+        // Filtrerar produkterna i databasen baserat på angiven kategori och returnerar som en lista.
         return _appDbContext.Products.Where(p => p.Category == category).ToList();
     }
 }

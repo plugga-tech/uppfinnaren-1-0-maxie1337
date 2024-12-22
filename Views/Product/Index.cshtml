@@ -9,6 +9,7 @@
   <ul>
     @foreach (var category in Model.Select(p => p.Category).Distinct())
     {
+         // Loopar igenom alla unika kategorier i modellen och skapar en lista av länkar där länkarna leder till produkterna med kategorins namn.
         <li><a href="@Url.Action("Links", "Product", new { category = category })">@category</a></li>
     }
 </ul>
