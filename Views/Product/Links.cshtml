@@ -1,0 +1,23 @@
+@{
+    ViewData["Title"] = "Produkter";
+    @model IEnumerable<Product>
+}
+
+<h1 class="text-center">@Model.FirstOrDefault()?.Category</h1>
+<br>
+
+<div class="container">
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4 d-flex justify-content-center">
+                <div class="creation text-center">
+                    <h2>@product.Name</h2>
+                    <p>@product.Description</p>
+                    <img src="@product.ImgUrl" alt="@product.Name" class="img-fluid mb-3" style="width:200px; height:250px;" />
+                    <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Lägg till i kundvagn</a>
+                </div>
+            </div>
+        }
+    </div>
+</div>

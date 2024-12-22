@@ -1,19 +1,30 @@
-using System;
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using uppfinnaren_1_0_maxie1337.Models;
+
+namespace uppfinnaren_1_0_maxie1337.Controllers;
  public class ProductController : Controller
     {
+        private readonly ILogger<ProductController> _logger;
+        private readonly IProductRepository _productRepository;
+
+        public ProductController(ILogger <ProductController> logger, IProductRepository productRepository)
+        {
+            _logger = logger;
+            this._productRepository = productRepository;
+
+        }
+
         public IActionResult Index()
         {
-            //hårdkodad lista med produkter
-            var products = new List<Product>
-            {
-                new Product { Name = "Torn", Description = "Ett torn karvat in i ett träd.", ImgUrl = "/Images/CTorn.jpg" },
-                new Product { Name = "Bord", Description = "Ett bord gjort utav en stubbe.", ImgUrl = "/Images/Ctables.jpg" },
-                new Product { Name = "Stol", Description = "En konstig stol.", ImgUrl = "/Images/Cchair.jpg" },
-                new Product { Name = "Tomte", Description = "En lurig tomte nu i juletider.", ImgUrl = "/Images/CTomte.jpg" }
-            };
+            return View(_productRepository.AllProducts);
+        }
+
+        public IActionResult Links(string category)
+{
+            var products = _productRepository.GetProductListByCategory(category);
 
             return View(products);
-        }
+}
+
     }

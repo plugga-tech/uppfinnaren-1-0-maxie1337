@@ -1,7 +1,18 @@
+using uppfinnaren_1_0_maxie1337.Models;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
+builder.Services.AddDbContext<AppDbContext>(options => {
+options.UseMySql(builder.Configuration.GetConnectionString("AppDbContextConnection"),
+ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("AppDbContextConnection")));
+
+});
 
 var app = builder.Build();
 
