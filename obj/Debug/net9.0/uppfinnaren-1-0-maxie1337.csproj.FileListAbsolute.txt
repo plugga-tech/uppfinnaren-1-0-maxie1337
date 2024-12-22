@@ -16,6 +16,7 @@ C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\bin\Debug\net9.0\Microso
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Max\Documents\GitHub\uppfinnaren-1-0-maxie1337\bin\Debug\net9.0\Mono.TextTemplating.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("uppfinnaren-1-0-maxie1337")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23be9ab69975dd3fc688213811b26595524a7645")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e80e1341bc89c5d853014d1c1672ad5286fb898")]
 [assembly: System.Reflection.AssemblyProductAttribute("uppfinnaren-1-0-maxie1337")]
 [assembly: System.Reflection.AssemblyTitleAttribute("uppfinnaren-1-0-maxie1337")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
